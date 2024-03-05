@@ -1,0 +1,11 @@
+website_theme: Hydra
+website_name: App Fly
+live_domain_url:
+website_description_text:
+social_media_share_image:
+twitter_handle:
+icons:
+  small_bookmark_icon_image: /images/icons/favicon.svg
+  large_bookmark_icon_image: /images/icons/favicon.svg
+  small_mobile_icon_image: /images/icons/favicon.svg
+  large_mobile_icon_image: /images/icons/favicon.svg
